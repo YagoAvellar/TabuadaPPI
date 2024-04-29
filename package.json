@@ -1,0 +1,29 @@
+{
+  "name": "aula1ppiadssemi",
+  "version": "1.0.0",
+  "description": "aula ao vivo nº 1 - PPI - ADS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/Aula1PPIADSSemi.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "ppi"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoFernandoSilvaGoncalves/Aula1PPIADSSemi/issues"
+  },
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/Aula1PPIADSSemi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
